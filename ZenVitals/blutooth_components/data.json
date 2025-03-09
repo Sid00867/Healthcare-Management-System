@@ -1,0 +1,11 @@
+{
+    "HeartRate": [68, 72, 78, 74, 75, 70],
+    "bpm": 73,
+    "spo2": 98,
+    "systolic": 120,
+    "diastolic": 80,
+    "RespiratoryRate": 16,
+    "SkinTemperature": 36.5,
+    "ActivityCalories": 450,
+    "SleepTracking": "7h 30m"
+}
